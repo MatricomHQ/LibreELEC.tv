@@ -8,7 +8,7 @@ Please report issues via the [LibreELEC forum: Bug Reports](https://forum.libree
 
 **Donations**
 
-Contributions towards current project funding goals can be sent via PayPal to donations@libreelec.tv
+Contributions towards current project funding goals can be sent via PayPal to donations@libreelec.tv - https://matricom.net
 
 **License**
 
